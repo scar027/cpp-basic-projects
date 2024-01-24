@@ -1,0 +1,1 @@
+g++ main.cpp grid.cpp colors.cpp position.cpp block.cpp blocks.cpp game.cpp -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
